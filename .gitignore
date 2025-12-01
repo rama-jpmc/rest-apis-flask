@@ -1,6 +1,5 @@
 .venv/
 .vscode/
 __pycache__/
-db.py
 .DS_Store
 .flaskenv
